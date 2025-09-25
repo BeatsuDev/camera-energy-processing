@@ -1,0 +1,8 @@
+---
+description: Guidelines to ensure robust code.
+alwaysApply: true
+---
+- Follow best practices to achieve readable and modular code.
+- Always validate data before using data.
+- Use unit tests and integration tests proactively to avoid breaking existing code.
+- Use strict and objective linter and formatter rules.

@@ -1,0 +1,7 @@
+---
+description: How to use CLI tools.
+alwaysApply: true
+---
+- Use mise-en-place for tool dependency management.
+- Always use bun instead of npm, pnpm, yarn or deno.
+- Use cat, grep, curl, git status etc. to poke around and explore before making changes.

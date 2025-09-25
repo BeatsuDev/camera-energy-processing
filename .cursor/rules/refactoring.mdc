@@ -1,0 +1,9 @@
+---
+description: Guidelines for refactoring existing code.
+alwaysApply: false
+---
+- Always run tests before and after refactoring changes.
+- Ensure the git staging area is empty before refactoring.
+- Identify all parts of the system that will be touched before refactoring. Ensure there exists tests for these interfaces before refactoring.
+- Strive for readability, composability and robustness.
+- Follow best conventions.

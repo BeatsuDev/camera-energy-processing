@@ -1,0 +1,10 @@
+---
+description: Guidelines when identifying and fixing bugs.
+alwaysApply: false
+---
+- Create a repdouction unit test before fixing a bug.
+- Run tests liberally.
+- Add debug statements liberally while debugging.
+- Use tools and temporary code changes actively to understand the bug.
+- Mark temporary changes during the debug process with comments.
+- Clean up the debug statements and temporary changes during the debug process after it has been fixed.

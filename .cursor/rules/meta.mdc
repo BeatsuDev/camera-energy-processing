@@ -1,0 +1,8 @@
+---
+description: Guidelines for how the AI should work. 
+alwaysApply: true
+---
+- Keep an updated "AI Notes" section in AGENTS.md, sort of like a sitemap.xml for websites, just for architecture, system design and logic in the project.
+- Use models with larger contexts when creating or editing features.
+- Use very intelligent models with reasoning for creating tests.
+- Use faster, cheaper and smaller for bug fixing.

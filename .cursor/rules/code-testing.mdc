@@ -1,0 +1,7 @@
+---
+description: Guidelines for creating tests.
+alwaysApply: false
+---
+- Colocate tests where it makes sense. 
+- Use vitest for unit tests and playwright for end-to-end tests.
+- Test interfaces of functions and components, not implementation details, as much as possible.

@@ -1,0 +1,14 @@
+---
+description: Guidelines to ensure readable and maintainable code.
+alwaysApply: true
+---
+- Prefer readability over short code.
+- Focus on concise, succinct and readable code.
+- Avoid verbosity.
+- Avoid deep nesting.
+- Group sections by logical coherence instead of type, a.k.a. co-location.
+- Keep the code bare and concise without sacrificing data validation and error handling.
+- Prefer type guard if statements over "if... else...".
+- Aim for pure, functional style functions where possible.
+- Think of types as mathematical sets of possible values. Use types and checks to narrow this set to what you need in any given context.
+- Adopt a functional coding style approach with a data-first view with functions mapping these to what is required for this context.

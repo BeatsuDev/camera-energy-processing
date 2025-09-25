@@ -1,0 +1,11 @@
+---
+description: Guidelines for implementing a new feature or creating new code
+alwaysApply: false
+---
+- Identify dependencies and blocking tasks before implementing a feature.
+- Use existing interfaces where possible.
+- Use existing popular libraries if it makes code more readable.
+- Avoid tight coupling; prefer modularity.
+- Add useful debug logger statements that display important property values.
+- Always create an integration test after implementing a full feature.
+- After finishing the feature, go over the code again to remove redundant code and improve readability.
