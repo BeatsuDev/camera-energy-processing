@@ -1,3 +1,12 @@
+.nuxt
+.output
+.data
+node_modules
+coverage
+playwright-report
+test-results
+.env*
+
 # Build
 /dist
 /lib

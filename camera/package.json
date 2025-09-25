@@ -1,0 +1,41 @@
+{
+  "name": "camera",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "prepare": "nuxt prepare",
+    "predev": "nuxt prepare",
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "preview": "nuxt preview",
+    "pretest": "nuxt prepare",
+    "test": "vitest",
+    "pretest:coverage": "nuxt prepare",
+    "test:coverage": "vitest run --coverage",
+    "test:e2e": "playwright test",
+    "lint": "biome lint .",
+    "format": "biome format ."
+  },
+  "dependencies": {
+    "@nuxt/ui": "latest",
+    "@vueuse/core": "latest",
+    "@vueuse/nuxt": "latest",
+    "nuxt": "latest"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "latest",
+    "@playwright/test": "latest",
+    "@vitejs/plugin-vue": "latest",
+    "@vitest/coverage-v8": "latest",
+    "@vue/test-utils": "latest",
+    "@nuxtjs/tailwindcss": "latest",
+    "jsdom": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest",
+    "vue-tsc": "latest",
+    "vitest": "latest"
+  }
+}
+

@@ -5,3 +5,21 @@ node = "22"
 
 [tasks.dev]
 run = "bun run dev"
+
+[tasks.build]
+run = "bun run build"
+
+[tasks.test]
+run = "bun run test"
+
+[tasks."test:coverage"]
+run = "bun run test:coverage"
+
+[tasks."test:e2e"]
+run = "bun run test:e2e"
+
+[tasks.lint]
+run = "bun run lint"
+
+[tasks.format]
+run = "bun run format"
