@@ -11,3 +11,5 @@ Enabled models:
 Subscription tier: Pro Trial
 
 ## Prompt 1 - Agent mode (auto)
+
+Give me an overview over what this project is supposed to do and what AI prompts / rules are in place.
