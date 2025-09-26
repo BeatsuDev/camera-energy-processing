@@ -27,3 +27,8 @@ they all work. You MUST use online documentation extensively to ensure compatibi
 Keep going to ensure all the tools are set up correctly and work. Be very careful and always check for more
 information using different tools before making assumptions like environment variables or how the environment
 looks like. Remember to follow all the rules, and use online documentation extensively.
+
+## Prompt 4 - Agent mode (gpt-5-high-fast)
+
+Continue until you are completely finished with your place. Do not stop until you have finished the plan and
+verified everything works.
