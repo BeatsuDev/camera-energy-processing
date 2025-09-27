@@ -32,3 +32,6 @@ looks like. Remember to follow all the rules, and use online documentation exten
 
 Continue until you are completely finished with your place. Do not stop until you have finished the plan and
 verified everything works.
+
+## Prompt 5 - Agent mode (deepseek-v3.1)
+Run the frontend dev server which is located in the camera directory.
